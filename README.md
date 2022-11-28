@@ -1,7 +1,6 @@
 - Alynne Toscano 
-
-<a href="https://www.instagram.com/alynnetoscano_/?next=%2F" target="_blank"><img src="https://img.![image](https://user-images.githubusercontent.com/115585444/204384405-4c42f627-ad89-42e2-aebb-c3fc8807d317.png)
-" target="_blank"></a>
+<a href="https://www.instagram.com/alynnetoscano_/?next=%2F" target="_blank"><img src=![image](https://user-images.githubusercontent.com/115585444/204385474-a387e9bf-96c4-4967-a7c9-aa66f0fda846.png)
+" target=" _blank "></a>
 
 
 - 👀 I’m interested in ...
