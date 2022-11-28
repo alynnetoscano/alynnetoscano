@@ -1,7 +1,5 @@
 - Alynne Toscano 
-<a href="https://www.instagram.com/alynnetoscano_/?next=%2F" target="_blank"><img src=![image](https://user-images.githubusercontent.com/115585444/204385474-a387e9bf-96c4-4967-a7c9-aa66f0fda846.png)
-" target=" _blank "></a>
-
+<a href="https://www.instagram.com/alynnetoscano_/?next=%2F" target="_blank"><img src=<a href="><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Javascript and HTML
