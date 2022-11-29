@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/alynne-toscano-vasconcelos-709355253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 
+![vue-color-avatar](https://user-images.githubusercontent.com/115585444/204659941-1dae574d-6941-4794-a778-5853ce1eb71f.png)
 
 
 
