@@ -17,7 +17,7 @@
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
 <img width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alynnetoscano&layout=compact)](https://github.com/USERNAME/github-readme-stats)
