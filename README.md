@@ -15,7 +15,7 @@
 ## Hello, Devs!!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://https://github.com/alynnetoscano/alynnetoscano/https://github.com/alynnetoscano)](https://github.com/alynnetoscano)
 
 <picture>
 <source 
