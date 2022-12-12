@@ -10,7 +10,7 @@
 
 
 
-## Dev, Skills!!
+## I am learning!!
 
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /><img width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"/>
@@ -18,6 +18,20 @@
 <img width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+
+
+
+
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alynnetoscano&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alynnetoscano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alynnetoscano&layout=compact)](https://github.com/USERNAME/github-readme-stats)
