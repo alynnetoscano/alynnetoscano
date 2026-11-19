@@ -1,4 +1,4 @@
-## Alynne Toscano
+## Alynne Toscano Vasconcelos
 **Estudante de Sistemas de Informação**
 
 Sou estudante de **Sistemas de Informação na Unifacisa**, apaixonada por tecnologia, inovação e desenvolvimento de software.
